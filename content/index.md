@@ -11,7 +11,7 @@ npm install
 
 you need a deloy.yml file. and switch to github action.
 <!-- # 本地调试 -->
-npx quartz build --serve
+`npx quartz build --serve`
 
 <!-- sync quartz -->
 npx quartz sync
