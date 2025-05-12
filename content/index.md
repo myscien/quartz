@@ -1,3 +1,9 @@
+---
+title: Ethan's Path
+created: 2025-05-12
+tags: [index, new]
+---
+
 # hello world!
 hello world again~
 
