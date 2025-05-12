@@ -9,6 +9,7 @@ Run the following command to install dependencies:
 
 npm install
 
+you need a deloy.yml file. and switch to github action.
 <!-- # 本地调试 -->
 npx quartz build --serve
 
