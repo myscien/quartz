@@ -1,7 +1,10 @@
 ---
 title: My Post Title
 created: 2025-05-12
-tags: [blog, thoughts]
+tags:
+  - blog
+  - thoughts
+draft: false
 ---
 
 Your blog content here.

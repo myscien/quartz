@@ -23,4 +23,7 @@ npx quartz build --serve
 
 #sync quartz
 npx quartz sync
+
+# commit and push
+npm run sync
 ```
