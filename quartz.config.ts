@@ -34,8 +34,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#ff7f00",  // Customized accent
-          tertiary: "#f4a261",  // Soft orange
+          secondary: "#2a9d8f",  // Customized accent
+          tertiary: "#e9c46a",  // Soft orange
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
@@ -45,8 +45,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#ffa726",  // Orange tone for dark mode
-          tertiary: "#ffcc80",
+          secondary: "	#26a69a",  // Orange tone for dark mode
+          tertiary: "#f4d35e",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
