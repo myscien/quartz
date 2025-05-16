@@ -1,7 +1,9 @@
 ---
-title: How to use Quartz to setup you own Blog.
+title: about Quartz
 created: 2025-05-12
-tags: [blog,tools, Quartz]
+tags:
+  - tools
+  - Quartz
 ---
 
 

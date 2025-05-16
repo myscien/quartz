@@ -1,10 +1,9 @@
 ---
-title: This is awesome! Very cool!
+title: Very cool!
 created: 
 tags:
   - tools
   - obsidian
-  - article
 ---
 **Corrected Version**
 At the moment, I can use Obsidian to write my blog, which is awesome!  

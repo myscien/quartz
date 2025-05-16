@@ -1,10 +1,10 @@
 ---
 title: Ethan's Path
 created: 2025-05-12
-tags: [index, new]
+tags: []
 ---
 
-Today, I began a free trial of Amazon Kindle Unlimited, and I’m determined to make the most of it. The first book on my reading list is The Art of Thinking Clearly by Rolf Dobelli—a title that has long intrigued me for its promise to sharpen cognitive judgment and decision-making.
+Today (May 15), I began a free trial of Amazon Kindle Unlimited, and I’m determined to make the most of it. The first book on my reading list is The Art of Thinking Clearly by Rolf Dobelli—a title that has long intrigued me for its promise to sharpen cognitive judgment and decision-making.
 
 As I’ve recently launched my personal website, I’ve committed to publishing one article each week. To stay consistent, I’m now working on a long-term content strategy.
 
