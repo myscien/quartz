@@ -4,4 +4,4 @@ tags:
   - computer
   - setup
 ---
-![fff](static/水泵.jpg)
+![fff](static/pump.jpg)
